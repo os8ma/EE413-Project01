@@ -18,8 +18,8 @@ This project uses the [Free Spoken Digit Dataset (FSDD)](https://github.com/Jako
 2. Install the required dependencies:
    pip install -r requirements.txt
 3. Download the dataset (if not already included):
-  git clone https://github.com/Jakobovski/free-spoken-digit-dataset
-4.Run the notebook: Open ProjectVf.ipynb in Jupyter or VS Code and run all cells.
+  git clone https://github.com/Jakobovski/free-spoken-digit-dataset.
+4. Run the notebook: Open ProjectVf.ipynb in Jupyter or VS Code and run all cells.
 
 🧠 Features
 Extracts features from:
